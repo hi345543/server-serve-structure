@@ -1,0 +1,6 @@
+{
+    "main-error": "./handler.js",
+    "other-configs": [
+        "./other"
+    ]
+}

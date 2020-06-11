@@ -1,0 +1,8 @@
+{
+    "othermain": {
+        "host": "localhost",
+        "user": "root",
+        "password": "testSql1",
+        "error-handler": "main-error"
+    }
+}

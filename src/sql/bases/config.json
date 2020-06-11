@@ -1,0 +1,10 @@
+{
+    "main": {
+        "host": "localhost",
+        "user": "root",
+        "password": "testSql1"
+    },
+    "other-configs": [
+        "./otherconfig.json"
+    ]
+}

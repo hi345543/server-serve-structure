@@ -1,0 +1,6 @@
+{
+    "main": "./controller.js",
+    "other-configs": [
+        "./otherconfig.json"
+    ]
+}

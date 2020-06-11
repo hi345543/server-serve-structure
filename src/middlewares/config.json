@@ -1,0 +1,6 @@
+{
+    "jwt": "./jwt",
+    "other-configs": [
+        "./otherconfig.json"
+    ]
+}
